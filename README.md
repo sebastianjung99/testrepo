@@ -1,11 +1,11 @@
 # testrepo
-this change is from branch main
-change from kunde1
+this change is from branch main  
+change from kunde1  
 kundenspezifischer change
-this change is from kunde2
-this change should only be in kunde2
-this change is from main
-another main change
-and another main change
+this change is from kunde2  
+this change should only be in kunde2  
+this change is from main  
+another main change  
+and another main change  
 
 i have made the changes for kunde1 only
